@@ -20,4 +20,9 @@
         }
     }
 
+    public void ExibirNomeEArtista()
+    {
+        Console.WriteLine($"Nome/Artista: {nome} - {artista}");
+    }
+
 }
