@@ -3,17 +3,8 @@
     public string nome;
     public string artista;
     public int duracao;
-    public bool disponivel;
 
-    public void EscreveDisponivel(bool value)
-    {
-        disponivel = value;
-    }
-
-    public bool LeDisponivel ()
-    {
-        return disponivel;
-    }
+    public bool Disponivel { get; set; } 
 
     public void ExibirFichaTecnica()
     {
@@ -29,10 +20,4 @@
             Console.WriteLine("Adquira o plano Plus+");
         }
     }
-
-    public void ExibirNomeEArtista()
-    {
-        Console.WriteLine($"Nome/Artista: {nome} - {artista}");
-    }
-
 }
