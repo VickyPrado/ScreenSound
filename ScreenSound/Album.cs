@@ -1,10 +1,11 @@
 ﻿class Album
 {
-    public int Nome { get; set; }
-    public int Duracao { get; set; }
+    private List<Musica> musicas = new List<Musica>();
+    public string Nome { get; set; }
+    public int DuracaoTotal { get; set; }
 
     public void AdcionarMusica(Musica musica)
     {
-
+        musicas.Add(musica);
     }
 }
