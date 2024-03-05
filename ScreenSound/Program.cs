@@ -12,4 +12,7 @@ musica2.Duracao = 354;
 albumDoQuenn.AdcionarMusica(musica1);
 albumDoQuenn.AdcionarMusica(musica2);
 
-albumDoQuenn.ExibirMusicasDoAlbum();
+Banda queen = new Banda();
+queen.Nome = "Quenn";
+queen.AdicionarAlbum(albumDoQuenn);
+queen.ExibirDiscografia();
