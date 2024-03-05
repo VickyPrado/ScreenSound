@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C790E903-74FD-45CB-A3C0-28FC5C96835F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C790E903-74FD-45CB-A3C0-28FC5C96835F}|ScreenSound\\ScreenSound.csproj|c:\\users\\vicky\\desktop\\documentos_da_vicky\\repositorios\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\02. c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C790E903-74FD-45CB-A3C0-28FC5C96835F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C790E903-74FD-45CB-A3C0-28FC5C96835F}|ScreenSound\\ScreenSound.csproj|c:\\users\\vicky\\desktop\\documentos_da_vicky\\repositorios\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\02. c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C790E903-74FD-45CB-A3C0-28FC5C96835F}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,21 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
+              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeToolTip": "ScreenSound\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:02:09.208Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Banda.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Banda.cs",
               "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Banda.cs",
               "RelativeToolTip": "ScreenSound\\Banda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T00:26:27.769Z",
               "EditorCaption": ""
@@ -49,20 +66,20 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T23:30:49.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
               "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Album.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T23:14:57.838Z",
               "EditorCaption": ""
