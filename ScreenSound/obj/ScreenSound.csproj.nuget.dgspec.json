@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
         "packagesPath": "C:\\Users\\Vicky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\obj\\",
+        "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

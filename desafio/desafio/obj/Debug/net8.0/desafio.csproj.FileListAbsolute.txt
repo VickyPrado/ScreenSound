@@ -1,5 +1,0 @@
-C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\02. C# - aplicando a Orientação a Objetos\ScreenSound\desafio\desafio\obj\Debug\net8.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\02. C# - aplicando a Orientação a Objetos\ScreenSound\desafio\desafio\obj\Debug\net8.0\desafio.AssemblyInfoInputs.cache
-C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\02. C# - aplicando a Orientação a Objetos\ScreenSound\desafio\desafio\obj\Debug\net8.0\desafio.AssemblyInfo.cs
-C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\02. C# - aplicando a Orientação a Objetos\ScreenSound\desafio\desafio\obj\Debug\net8.0\desafio.csproj.CoreCompileInputs.cache
-C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\02. C# - aplicando a Orientação a Objetos\ScreenSound\desafio\desafio\obj\Debug\net8.0\desafio.sourcelink.json
