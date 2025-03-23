@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jbDRO6iMUEs3kUGLphR1qrAOUxEecLZ4STKiKx3EOWf8HZfYocw40FY/YZQU7Ttw+aeSSwvHAN6xft2cTW3aNw==",
+  "dgSpecHash": "KGjcN4Qo5jpa3PiqZJV5WtmWQusJ2jC51yL9WKz3Wl698aP+C4tL4pCd0UESoiEVBE59gqXLpGjkDVWI7Cbb4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Vicky\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Vicky\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Vicky\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Vicky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

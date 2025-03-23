@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+      "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\Vicky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\03. C# - dominando Orientação a Objetos\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,24 +61,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
