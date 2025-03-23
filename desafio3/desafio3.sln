@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
+VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio3", "desafio3\desafio3.csproj", "{A579A37F-CC5B-4C04-BEDB-478A629C25AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio3", "desafio3\desafio3.csproj", "{4A9575D0-EA0D-48FA-9D75-830739E72405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A579A37F-CC5B-4C04-BEDB-478A629C25AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A579A37F-CC5B-4C04-BEDB-478A629C25AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A579A37F-CC5B-4C04-BEDB-478A629C25AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A579A37F-CC5B-4C04-BEDB-478A629C25AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9575D0-EA0D-48FA-9D75-830739E72405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9575D0-EA0D-48FA-9D75-830739E72405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9575D0-EA0D-48FA-9D75-830739E72405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9575D0-EA0D-48FA-9D75-830739E72405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7F820A13-7743-4699-80AF-75BFD16ADE13}
+		SolutionGuid = {266E57D3-19F1-4D47-9DF5-7BC45260FA1E}
 	EndGlobalSection
 EndGlobal

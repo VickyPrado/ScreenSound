@@ -1,84 +1,57 @@
-﻿//1. Reescrever a classe Conta, criada no ultimo desafio, utilizando properties.
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿//Escrever uma função que a partir de dois números de ponto flutuante a e b exiba no console o resultado de
+//suas quatro operações básicas (adição, subtração, divisão e multiplicação), utilizando interpolação de strings.
 
-class ContaBancaria
+void ExibirOperadores()
 {
-    public string IdConta { get; }
-    public string Titular { get; }
-    public float Saldo { get; }
-    public int Senha { get; set; }
+    float a = 4;
+    float b = 8;
+
+    float soma = a + b;
+    float subtracao = a - b;
+    float divisao = a / b;
+    float multiplicacao = a * b;
+
+    Console.WriteLine($"a + b = {soma}");
+    Console.WriteLine($"a - b = {subtracao}");
+    Console.WriteLine($"a / b = {divisao}");
+    Console.WriteLine($"a * b = {multiplicacao}");
+}
+
+ExibirOperadores();
+
+
+
+
+//Criar uma lista de bandas vazia e adicionar suas bandas prediletas em seguida.
+
+List<string> bandas =  new List<string>();
+
+bandas.Add( "Slipknote" );
+bandas.Add("Mettalica");
+bandas.Add("Thirty Seconds to Mars");
+bandas.Add("Paramore");
+
+
+
+
+//Utilizar a estrutura 'for' para mostrar todas as suas bandas preferidas, listadas na lista do exercício anterior, no console.
+
+for ( int i = 0; i < bandas.Count; i++)
+{
+    Console.WriteLine(bandas[i]);
 }
 
 
-//2. Reescrever os atributos da classe Carro, de modo que eles sejam properties, e adicionar uma nova propertie DescricaoDetalhada,
-//que mostra o fabricante, modelo e ano do carro.
 
-class Carro
+
+//Criar um programa que calcula a soma de todos os elementos inteiros em uma lista.
+
+List<int> numeros = new List<int> {1, 2, 3, 4, 5 };
+int soma = 0;
+
+foreach ( int numero in numeros)
 {
-    public string Fabricante { get; set; }
-    public string Modelo { get; set; }
-    public int Ano { get; set; }
-    public int QuantidadePortas { get; set; }
-    public int Velocidade = 0;
-    public string DescricaoDetalhada => $"{this.Fabricante}, {this.Modelo}, {this.Ano}";
+    soma += numero;
 }
 
-
-//3.Reescrever a propriedade Ano da classe carro, para que ela apenas aceite valores entre 1960 e 2023.
-class Carro2
-{
-    private int ano;
-    public string Fabricante { get; set; }
-    public string Modelo { get; set; }
-    public int Ano
-    {
-        get => ano;
-        set
-        {
-            if (value < 1960 || value > 2023)
-            {
-                Console.WriteLine("Valor inválido, insira um ano entre 1960 e 2023");
-            }
-            else
-            {
-                ano = value;
-            }
-        }
-    }
-}
-
-
-//4. Desenvolver a classe Produto, com os atributos nome, marca, preco e estoque. Além disso, garantir que o preço e o estoque do produto
-//sejam valores positivos e criar uma propriedade que mostra detalhadamente as informações do produto, para que seja usado pela equipe de vendas.
-
-class Produto
-{
-    private double preco;
-    private int estoque;
-    public string Nome { get; set; }
-    public string Marca { get; set; }
-    public double Preco
-    {
-        get => preco;
-        set
-        {
-            if (value > 0)
-                preco = value;
-            else
-                preco = 10;
-        }
-    }
-
-    public int Estoque
-    {
-        get => estoque;
-        set
-        {
-            if (value > 0)
-                estoque = value;
-            else
-                estoque = 0;
-        }
-    }
-    public string DescricaoProduto => $"{this.Nome} {this.Marca} - {this.Preco}";
-}
+Console.WriteLine($"A soma dos elementos da lista é: {soma}");

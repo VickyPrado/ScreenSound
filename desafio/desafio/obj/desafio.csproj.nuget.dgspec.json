@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\desafio\\desafio\\desafio.csproj": {}
+    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\desafio\\desafio\\desafio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\desafio\\desafio\\desafio.csproj": {
+    "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\desafio\\desafio\\desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\desafio\\desafio\\desafio.csproj",
+        "projectUniqueName": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\desafio\\desafio\\desafio.csproj",
         "projectName": "desafio",
-        "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\desafio\\desafio\\desafio.csproj",
+        "projectPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\desafio\\desafio\\desafio.csproj",
         "packagesPath": "C:\\Users\\Vicky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\02. C# - aplicando a Orientação a Objetos\\ScreenSound\\desafio\\desafio\\obj\\",
+        "outputPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orientação a Objetos\\desafio\\desafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

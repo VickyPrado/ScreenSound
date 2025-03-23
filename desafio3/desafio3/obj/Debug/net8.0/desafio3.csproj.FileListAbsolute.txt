@@ -1,0 +1,14 @@
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\bin\Debug\net8.0\desafio3.exe
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\bin\Debug\net8.0\desafio3.deps.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\bin\Debug\net8.0\desafio3.runtimeconfig.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\bin\Debug\net8.0\desafio3.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\bin\Debug\net8.0\desafio3.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\refint\desafio3.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\desafio3.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\desafio3\desafio3\obj\Debug\net8.0\ref\desafio3.dll

@@ -1,0 +1,14 @@
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\bin\Debug\net8.0\PrimeiroJogo.exe
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\bin\Debug\net8.0\PrimeiroJogo.deps.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\bin\Debug\net8.0\PrimeiroJogo.runtimeconfig.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\bin\Debug\net8.0\PrimeiroJogo.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\bin\Debug\net8.0\PrimeiroJogo.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\refint\PrimeiroJogo.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\PrimeiroJogo.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\PrimeiroJogo\PrimeiroJogo\obj\Debug\net8.0\ref\PrimeiroJogo.dll

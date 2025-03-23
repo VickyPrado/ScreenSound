@@ -1,0 +1,14 @@
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\bin\Debug\net8.0\superCarros.exe
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\bin\Debug\net8.0\superCarros.deps.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\bin\Debug\net8.0\superCarros.runtimeconfig.json
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\bin\Debug\net8.0\superCarros.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\bin\Debug\net8.0\superCarros.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.AssemblyInfoInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.AssemblyInfo.cs
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\refint\superCarros.dll
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.pdb
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\superCarros.genruntimeconfig.cache
+C:\Users\Vicky\Desktop\Documentos_da_vicky\repositorios\Aprenda a programar em C# com Orientação a Objetos\C# - criando sua primeira aplicação\superCarros\superCarros\obj\Debug\net8.0\ref\superCarros.dll
