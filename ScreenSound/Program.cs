@@ -1,11 +1,14 @@
 ﻿using ScreenSound.Modelos;
 
-Banda slipknot = new("Slipknot");
-Banda disturbed = new("Disturbed");
+Banda slipknote = new Banda("Slipknot");
+slipknote.AdicionarNota(new Avaliacao(10));
+slipknote.AdicionarNota(new Avaliacao(8));
+slipknote.AdicionarNota(new Avaliacao(6));
+Banda disturbed = new Banda("Disturbed");
 
-Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
-bandasRegistradas.Add("Linkin Park", new List<int> { 10, 8, 6 });
-bandasRegistradas.Add("The Beatles", new List<int>());
+Dictionary<string, Banda> bandasRegistradas = new();
+bandasRegistradas.Add(slipknote.Nome, slipknote);
+bandasRegistradas.Add(disturbed.Nome, disturbed);
 
 void ExibirLogo()
 {
@@ -84,7 +87,8 @@ void RegistrarBanda()
     ExibirTituloDaOpcao("Registro das bandas");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;
-    bandasRegistradas.Add(nomeDaBanda, new List<int>());
+    Banda banda = new Banda(nomeDaBanda);
+    bandasRegistradas.Add(nomeDaBanda, banda);
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
     Thread.Sleep(4000);
     Console.Clear();
@@ -125,9 +129,10 @@ void AvaliarUmaBanda()
     string nomeDaBanda = Console.ReadLine()!;
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
+        Banda banda = bandasRegistradas[nomeDaBanda];
         Console.Write($"Qual a nota que a banda {nomeDaBanda} merece: ");
         int nota = int.Parse(Console.ReadLine()!);
-        bandasRegistradas[nomeDaBanda].Add(nota);
+        banda.AdicionarNota(new Avaliacao(nota));
         Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
         Thread.Sleep(2000);
         Console.Clear();
@@ -152,8 +157,8 @@ void ExibirDetalhes()
     string nomeDaBanda = Console.ReadLine()!;
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
-        List<int> notasDaBanda = bandasRegistradas[nomeDaBanda];
-        Console.WriteLine($"\nA média da banda {nomeDaBanda} é {notasDaBanda.Average()}.");
+        Banda banda = bandasRegistradas[nomeDaBanda];
+        Console.WriteLine($"\nA média da banda {nomeDaBanda} é {banda.Media}.");
         /**
         * ESPAÇO RESERVADO PARA COMPLETAR A FUNÇÃO
         */
