@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\vicky\\desktop\\documentos_da_vicky\\repositorios\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\02. c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio2\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\vicky\\desktop\\documentos_da_vicky\\repositorios\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\02. c# - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio2\\Oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\PetShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio2\\PetShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Calculadora.cs",
+              "RelativeToolTip": "Desafio2\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T01:50:18.776Z",
+              "WhenOpened": "2025-03-25T04:13:42.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Avaliacao.cs",
-              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Avaliacao.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Avaliacao.cs",
-              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Avaliacao.cs",
-              "RelativeToolTip": "ScreenSound\\Modelos\\Avaliacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Oficina.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Oficina.cs",
+              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\Oficina.cs",
+              "RelativeToolTip": "Desafio2\\Oficina.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:12:26.838Z",
+              "WhenOpened": "2025-03-25T03:20:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetShop.cs",
+              "DocumentMoniker": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\PetShop.cs",
+              "RelativeDocumentMoniker": "Desafio2\\PetShop.cs",
+              "ToolTip": "C:\\Users\\Vicky\\Desktop\\Documentos_da_vicky\\repositorios\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\02. C# - aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Desafio2\\PetShop.cs",
+              "RelativeToolTip": "Desafio2\\PetShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:03:13.34Z",
               "EditorCaption": ""
             }
           ]
