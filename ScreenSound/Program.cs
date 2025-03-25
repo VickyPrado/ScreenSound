@@ -9,10 +9,14 @@ internal class Program
         slipknote.AdicionarNota(new Avaliacao(8));
         slipknote.AdicionarNota(new Avaliacao(6));
         Banda disturbed = new Banda("Disturbed");
+        Banda linkinPark = new Banda("Linkin Park");
+        Banda arcticmonkeys = new Banda("Arctic Monkeys");
 
         Dictionary<string, Banda> bandasRegistradas = new();
         bandasRegistradas.Add(slipknote.Nome, slipknote);
         bandasRegistradas.Add(disturbed.Nome, disturbed);
+        bandasRegistradas.Add(linkinPark.Nome, linkinPark);
+        bandasRegistradas.Add(arcticmonkeys.Nome, arcticmonkeys);
 
         void ExibirLogo()
         {
