@@ -1,4 +1,4 @@
-﻿namespace ScreenSound.ScreenSound.Menus;
+﻿namespace ScreenSound.Menus;
 
 internal class Menu
 {
