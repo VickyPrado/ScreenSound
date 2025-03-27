@@ -1,19 +1,10 @@
-﻿using ScreenSound;
-using ScreenSound.Menus;
+﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
-Banda slipknote = new Banda("Slipknot");
-slipknote.AdicionarNota(new Avaliacao(10));
-slipknote.AdicionarNota(new Avaliacao(8));
-slipknote.AdicionarNota(new Avaliacao(6));
-Banda disturbed = new Banda("Disturbed");
-Banda linkinPark = new Banda("Linkin Park");
 Banda arcticmonkeys = new Banda("Arctic Monkeys");
+arcticmonkeys.AdicionarNota(new Avaliacao(10));
 
 Dictionary<string, Banda> bandasRegistradas = new();
-bandasRegistradas.Add(slipknote.Nome, slipknote);
-bandasRegistradas.Add(disturbed.Nome, disturbed);
-bandasRegistradas.Add(linkinPark.Nome, linkinPark);
 bandasRegistradas.Add(arcticmonkeys.Nome, arcticmonkeys);
 
 Dictionary<int, Menu> opcoes = new();
