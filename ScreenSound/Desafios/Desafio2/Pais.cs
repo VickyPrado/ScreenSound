@@ -1,4 +1,6 @@
-﻿/*
+﻿//2. Modelar e desserializar a classe Pais, que pode ser encontrada no endpoint disponibilizado https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Paises.json
+
+/*
 using System.Text.Json.Serialization;
 namespace Paises;
 

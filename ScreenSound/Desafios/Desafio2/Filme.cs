@@ -1,4 +1,6 @@
-﻿/*
+﻿//1. Modelar e desserializar a classe Filme, que pode ser encontrada no endpoint disponibilizado https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/TopMovies.json
+
+/*
 using System.Text.Json.Serialization;
 namespace Filmes;
 

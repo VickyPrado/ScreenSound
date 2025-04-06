@@ -1,4 +1,6 @@
-﻿/*
+﻿//3. Modelar e desserializar a classe Carro, que pode ser encontrada no endpoint disponibilizado https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/Carros.json
+
+/*
 using System.Text.Json.Serialization;
 namespace Carros;
 
