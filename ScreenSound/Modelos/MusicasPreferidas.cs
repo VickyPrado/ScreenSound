@@ -18,7 +18,7 @@ internal class MusicasPreferidas
 
     public void ExibirMusicasFavoritas()
     {
-        Console.WriteLine($"Essas são as músicas favoritas -> {Nome}");
+        Console.WriteLine($"\nEssas são as músicas favoritas -> {Nome}");
         foreach(var musica in ListaDeMusicasFavoritas)
         {
             Console.WriteLine($"- {musica.Nome} de {musica.Artista}");
