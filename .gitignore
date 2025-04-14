@@ -482,3 +482,11 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/.vs/ScreenSound/v17/.suo
+/ScreenSound/obj/Debug/net8.0/apphost.exe
+/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfo.cs
+/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfoInputs.cache
+/ScreenSound/obj/Debug/net8.0/ScreenSound.csproj.CoreCompileInputs.cache
+/ScreenSound/obj/Debug/net8.0/ScreenSound.dll
+/ScreenSound/obj/Debug/net8.0/ScreenSound.pdb
+/ScreenSound/obj/Debug/net8.0/ScreenSound.sourcelink.json
