@@ -42,4 +42,15 @@ internal class LinqFilter
             Console.WriteLine($"- {musica.Nome}");
         }
     }
+    
+    public static void FiltrarMusicasPorTonalidade(List<Musica> musicas, int indice)
+    {
+        var musicasPorTonalidade = musicas.Where(musica => musica.Chave == indice).ToList();
+
+        Console.WriteLine($"Músicas na tonalidade de índice {indice}:");
+        foreach (var musica in musicasPorTonalidade)
+        {
+            Console.WriteLine($"- {musica.Nome} = {musica.Tonalidade}");
+        }
+    }
 }
